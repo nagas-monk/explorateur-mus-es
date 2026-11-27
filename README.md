@@ -1,10 +1,12 @@
 # Brittany museums explorer
 
 <!-- Write this README in English. Keep it short and up to date. -->
+shows all 34 museums and departements in a list
 
 ## What it does
 
 <!-- One or two sentences: what a visitor can do with this page. -->
+you can see all museums and location
 
 ## Data source and licence
 
